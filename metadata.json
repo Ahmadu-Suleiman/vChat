@@ -1,0 +1,5 @@
+{
+  "name": "vChat",
+  "description": "A structured conversation platform for professional and community use, featuring role-based attribution, cryptographic signing, and context-aware AI tools.",
+  "requestFramePermissions": []
+}
