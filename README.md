@@ -6,7 +6,7 @@ Built for everyday people, vChat has applications across community mediation, he
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/8ab41ac1-4ef3-465d-bdb0-b997cfb44539
+View the app in AI Studio: https://ai.studio/apps/8ab41ac1-4ef3-465d-bdb0-b997cfb44539
 
 ## Run Locally
 
